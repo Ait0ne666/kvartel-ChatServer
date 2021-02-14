@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gBd5wpooEA72LoPgYU4TYFpprNowdWqCW+ryG1GpYIyDGPfMgn5/BnEN2/3c5jT6HAqElxT9KF3zOKF24EbqqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\ChatServer\\ChatServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bonaf\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
